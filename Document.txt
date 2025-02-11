@@ -1,0 +1,8 @@
+Bus Reservation Requirement
+
+*booking a bus ticket online.
+*costomer management
+*ticket concelation
+*Bus timing management
+*no of seat
+*ticket management
